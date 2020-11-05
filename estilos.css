@@ -4,3 +4,17 @@
     height: 400px;
     background-color: aqua;
 }
+
+.container-section-promo {
+    display: flex;
+    width: 70%;
+    margin: 100px auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.item-article{
+    width: 30%;
+    height: 100px;
+    background-color: aqua;
+}
